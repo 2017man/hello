@@ -7,7 +7,7 @@ Third party message push
 ## Install
 
 ```
-$ composer require yanlongma/push
+$ composer require 2017man/hello
 ```
 
 ## Demo
